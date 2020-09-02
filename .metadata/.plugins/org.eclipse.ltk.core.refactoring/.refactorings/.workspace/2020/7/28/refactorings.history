@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;OpenGL with freeGLUT Library&apos; to &apos;Mod1&apos;" description="Rename resource &apos;OpenGL with freeGLUT Library&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/OpenGL with freeGLUT Library" name="Mod1" stamp="1594346288744" updateReferences="true"/>
+</session>

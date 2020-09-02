@@ -1,0 +1,499 @@
+11:30:32 **** Incremental Build of configuration Debug for project Mod6 ****
+Info: Internal Builder is used for build
+g++ -o Mod6.exe Practice_Activity_7.o Practice_Activity_8.o "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" "Tutorial 6.o" -lfreeglut -lopengl32 -lglu32 -lglew32 
+Info: Nothing to build for Mod6
+11:36:41 **** Incremental Build of configuration Debug for project Mod6 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Practice_Activity_8.o "..\\Practice_Activity_8.cpp" 
+g++ -o Mod6.exe Practice_Activity_7.o Practice_Activity_8.o "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" "Tutorial 6.o" -lfreeglut -lopengl32 -lglu32 -lglew32 
+11:36:53 **** Incremental Build of configuration Debug for project Mod6 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Practice_Activity_8.o "..\\Practice_Activity_8.cpp" 
+g++ -o Mod6.exe Practice_Activity_7.o Practice_Activity_8.o "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" "Tutorial 6.o" -lfreeglut -lopengl32 -lglu32 -lglew32 
+11:37:10 **** Incremental Build of configuration Debug for project Mod6 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Practice_Activity_8.o "..\\Practice_Activity_8.cpp" 
+g++ -o Mod6.exe Practice_Activity_7.o Practice_Activity_8.o "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" "Tutorial 6.o" -lfreeglut -lopengl32 -lglu32 -lglew32 
+11:37:37 **** Incremental Build of configuration Debug for project Mod6 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Practice_Activity_8.o "..\\Practice_Activity_8.cpp" 
+g++ -o Mod6.exe Practice_Activity_7.o Practice_Activity_8.o "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" "Tutorial 6.o" -lfreeglut -lopengl32 -lglu32 -lglew32 
+11:38:02 **** Incremental Build of configuration Debug for project Mod6 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Practice_Activity_8.o "..\\Practice_Activity_8.cpp" 
+g++ -o Mod6.exe Practice_Activity_7.o Practice_Activity_8.o "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" "Tutorial 6.o" -lfreeglut -lopengl32 -lglu32 -lglew32 
+11:38:20 **** Incremental Build of configuration Debug for project Mod6 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Practice_Activity_8.o "..\\Practice_Activity_8.cpp" 
+g++ -o Mod6.exe Practice_Activity_7.o Practice_Activity_8.o "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" "Tutorial 6.o" -lfreeglut -lopengl32 -lglu32 -lglew32 
+11:38:31 **** Incremental Build of configuration Debug for project Mod6 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Practice_Activity_8.o "..\\Practice_Activity_8.cpp" 
+g++ -o Mod6.exe Practice_Activity_7.o Practice_Activity_8.o "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" "Tutorial 6.o" -lfreeglut -lopengl32 -lglu32 -lglew32 
+11:38:56 **** Incremental Build of configuration Debug for project Mod6 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Practice_Activity_8.o "..\\Practice_Activity_8.cpp" 
+..\Practice_Activity_8.cpp: In function 'void Render()':
+..\Practice_Activity_8.cpp:237:17: error: expected ';' before 'glm'
+  237 |  cout << radians
+      |                 ^
+      |                 ;
+  238 | 
+  239 |  glm::mat4 model;
+      |  ~~~             
+..\Practice_Activity_8.cpp:240:2: error: 'model' was not declared in this scope; did you mean 'modfl'?
+  240 |  model = glm::translate(model, glm::vec3( 0.0f, 0.0f, 0.0f));
+      |  ^~~~~
+      |  modfl
+11:39:01 **** Incremental Build of configuration Debug for project Mod6 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Practice_Activity_8.o "..\\Practice_Activity_8.cpp" 
+g++ -o Mod6.exe Practice_Activity_7.o Practice_Activity_8.o "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" "Tutorial 6.o" -lfreeglut -lopengl32 -lglu32 -lglew32 
+11:43:35 **** Incremental Build of configuration Debug for project Mod6 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Practice_Activity_8.o "..\\Practice_Activity_8.cpp" 
+g++ -o Mod6.exe Practice_Activity_7.o Practice_Activity_8.o "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" "Tutorial 6.o" -lfreeglut -lopengl32 -lglu32 -lglew32 
+11:44:11 **** Incremental Build of configuration Debug for project Mod6 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Practice_Activity_8.o "..\\Practice_Activity_8.cpp" 
+g++ -o Mod6.exe Practice_Activity_7.o Practice_Activity_8.o "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" "Tutorial 6.o" -lfreeglut -lopengl32 -lglu32 -lglew32 
+11:44:23 **** Incremental Build of configuration Debug for project Mod6 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Practice_Activity_8.o "..\\Practice_Activity_8.cpp" 
+g++ -o Mod6.exe Practice_Activity_7.o Practice_Activity_8.o "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" "Tutorial 6.o" -lfreeglut -lopengl32 -lglu32 -lglew32 
+11:44:42 **** Incremental Build of configuration Debug for project Mod6 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Practice_Activity_8.o "..\\Practice_Activity_8.cpp" 
+g++ -o Mod6.exe Practice_Activity_7.o Practice_Activity_8.o "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" "Tutorial 6.o" -lfreeglut -lopengl32 -lglu32 -lglew32 
+11:45:28 **** Incremental Build of configuration Debug for project Mod6 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Practice_Activity_8.o "..\\Practice_Activity_8.cpp" 
+g++ -o Mod6.exe Practice_Activity_7.o Practice_Activity_8.o "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" "Tutorial 6.o" -lfreeglut -lopengl32 -lglu32 -lglew32 
+11:46:07 **** Incremental Build of configuration Debug for project Mod6 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Practice_Activity_8.o "..\\Practice_Activity_8.cpp" 
+g++ -o Mod6.exe Practice_Activity_7.o Practice_Activity_8.o "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" "Tutorial 6.o" -lfreeglut -lopengl32 -lglu32 -lglew32 
+11:48:15 **** Incremental Build of configuration Debug for project Mod6 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Practice_Activity_8.o "..\\Practice_Activity_8.cpp" 
+g++ -o Mod6.exe Practice_Activity_7.o Practice_Activity_8.o "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" "Tutorial 6.o" -lfreeglut -lopengl32 -lglu32 -lglew32 
+11:48:43 **** Incremental Build of configuration Debug for project Mod6 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Practice_Activity_8.o "..\\Practice_Activity_8.cpp" 
+g++ -o Mod6.exe Practice_Activity_7.o Practice_Activity_8.o Practice_Activity_9.o "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" "Tutorial 6.o" -lfreeglut -lopengl32 -lglu32 -lglew32 
+g++: error: Practice_Activity_9.o: No such file or directory
+11:49:07 **** Incremental Build of configuration Debug for project Mod6 ****
+Info: Internal Builder is used for build
+g++ -o Mod6.exe Practice_Activity_7.o Practice_Activity_8.o "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" "Tutorial 6.o" -lfreeglut -lopengl32 -lglu32 -lglew32 
+11:50:20 **** Incremental Build of configuration Debug for project Mod6 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Practice_Activity_8.o "..\\Practice_Activity_8.cpp" 
+g++ -o Mod6.exe Practice_Activity_7.o Practice_Activity_8.o "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" "Tutorial 6.o" -lfreeglut -lopengl32 -lglu32 -lglew32 
+11:50:46 **** Incremental Build of configuration Debug for project Mod6 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Practice_Activity_8.o "..\\Practice_Activity_8.cpp" 
+g++ -o Mod6.exe Practice_Activity_7.o Practice_Activity_8.o "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" "Tutorial 6.o" -lfreeglut -lopengl32 -lglu32 -lglew32 
+11:51:07 **** Incremental Build of configuration Debug for project Mod6 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Practice_Activity_8.o "..\\Practice_Activity_8.cpp" 
+g++ -o Mod6.exe Practice_Activity_7.o Practice_Activity_8.o "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" "Tutorial 6.o" -lfreeglut -lopengl32 -lglu32 -lglew32 
+11:51:19 **** Incremental Build of configuration Debug for project Mod6 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Practice_Activity_8.o "..\\Practice_Activity_8.cpp" 
+g++ -o Mod6.exe Practice_Activity_7.o Practice_Activity_8.o "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" "Tutorial 6.o" -lfreeglut -lopengl32 -lglu32 -lglew32 
+Info: Nothing to build for Mod6
+11:52:48 **** Incremental Build of configuration Debug for project Mod6 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Practice_Activity_8.o "..\\Practice_Activity_8.cpp" 
+g++ -o Mod6.exe Practice_Activity_7.o Practice_Activity_8.o "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" "Tutorial 6.o" -lfreeglut -lopengl32 -lglu32 -lglew32 
+11:53:36 **** Incremental Build of configuration Debug for project Mod6 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Practice_Activity_8.o "..\\Practice_Activity_8.cpp" 
+g++ -o Mod6.exe Practice_Activity_7.o Practice_Activity_8.o "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" "Tutorial 6.o" -lfreeglut -lopengl32 -lglu32 -lglew32 
+Info: Nothing to build for Final
+08:33:31 **** Incremental Build of configuration Debug for project Final ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "Final Project.o" "..\\Final Project.cpp" 
+..\Final Project.cpp: In function 'GLfloat* CalculateNormals(GLfloat*, GLuint*)':
+..\Final Project.cpp:888:41: warning: 'sizeof' on array function parameter 'indices' will return size of 'GLuint*' {aka 'unsigned int*'} [-Wsizeof-array-argument]
+  888 |  GLuint numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |                                         ^
+..\Final Project.cpp:885:56: note: declared here
+  885 | GLfloat * CalculateNormals(GLfloat vertices [], GLuint indices []) {
+      |                                                 ~~~~~~~^~~~~~~~~~
+..\Final Project.cpp:934:9: warning: address of local variable 'normArray' returned [-Wreturn-local-addr]
+  934 |  return normArray;
+      |         ^~~~~~~~~
+..\Final Project.cpp:921:10: note: declared here
+  921 |  GLfloat normArray [normalContainerSize];
+      |          ^~~~~~~~~
+g++ -o Final.exe "Final Project.o" "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" -lopengl32 -lglew32 -lglu32 -lfreeglut 
+09:10:28 **** Incremental Build of configuration Debug for project Final ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "Final Project.o" "..\\Final Project.cpp" 
+..\Final Project.cpp: In function 'GLfloat* CalculateNormals(GLfloat*, GLuint*)':
+..\Final Project.cpp:888:41: warning: 'sizeof' on array function parameter 'indices' will return size of 'GLuint*' {aka 'unsigned int*'} [-Wsizeof-array-argument]
+  888 |  GLuint numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |                                         ^
+..\Final Project.cpp:885:56: note: declared here
+  885 | GLfloat * CalculateNormals(GLfloat vertices [], GLuint indices []) {
+      |                                                 ~~~~~~~^~~~~~~~~~
+..\Final Project.cpp:934:9: warning: address of local variable 'normArray' returned [-Wreturn-local-addr]
+  934 |  return normArray;
+      |         ^~~~~~~~~
+..\Final Project.cpp:921:10: note: declared here
+  921 |  GLfloat normArray [normalContainerSize];
+      |          ^~~~~~~~~
+g++ -o Final.exe "Final Project.o" "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" -lopengl32 -lglew32 -lglu32 -lfreeglut 
+09:10:51 **** Incremental Build of configuration Debug for project Final ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "Final Project.o" "..\\Final Project.cpp" 
+..\Final Project.cpp: In function 'GLfloat* CalculateNormals(GLfloat*, GLuint*)':
+..\Final Project.cpp:888:41: warning: 'sizeof' on array function parameter 'indices' will return size of 'GLuint*' {aka 'unsigned int*'} [-Wsizeof-array-argument]
+  888 |  GLuint numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |                                         ^
+..\Final Project.cpp:885:56: note: declared here
+  885 | GLfloat * CalculateNormals(GLfloat vertices [], GLuint indices []) {
+      |                                                 ~~~~~~~^~~~~~~~~~
+..\Final Project.cpp:934:9: warning: address of local variable 'normArray' returned [-Wreturn-local-addr]
+  934 |  return normArray;
+      |         ^~~~~~~~~
+..\Final Project.cpp:921:10: note: declared here
+  921 |  GLfloat normArray [normalContainerSize];
+      |          ^~~~~~~~~
+g++ -o Final.exe "Final Project.o" "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" -lopengl32 -lglew32 -lglu32 -lfreeglut 
+09:11:55 **** Incremental Build of configuration Debug for project Final ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "Final Project.o" "..\\Final Project.cpp" 
+..\Final Project.cpp: In function 'void Initialize(int, char**)':
+..\Final Project.cpp:204:18: error: 'fur' was not declared in this scope; did you mean 'far'?
+  204 |  GenerateTexture(fur);
+      |                  ^~~
+      |                  far
+..\Final Project.cpp: In function 'GLfloat* CalculateNormals(GLfloat*, GLuint*)':
+..\Final Project.cpp:888:41: warning: 'sizeof' on array function parameter 'indices' will return size of 'GLuint*' {aka 'unsigned int*'} [-Wsizeof-array-argument]
+  888 |  GLuint numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |                                         ^
+..\Final Project.cpp:885:56: note: declared here
+  885 | GLfloat * CalculateNormals(GLfloat vertices [], GLuint indices []) {
+      |                                                 ~~~~~~~^~~~~~~~~~
+..\Final Project.cpp:934:9: warning: address of local variable 'normArray' returned [-Wreturn-local-addr]
+  934 |  return normArray;
+      |         ^~~~~~~~~
+..\Final Project.cpp:921:10: note: declared here
+  921 |  GLfloat normArray [normalContainerSize];
+      |          ^~~~~~~~~
+09:12:18 **** Incremental Build of configuration Debug for project Final ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "Final Project.o" "..\\Final Project.cpp" 
+..\Final Project.cpp: In function 'GLfloat* CalculateNormals(GLfloat*, GLuint*)':
+..\Final Project.cpp:888:41: warning: 'sizeof' on array function parameter 'indices' will return size of 'GLuint*' {aka 'unsigned int*'} [-Wsizeof-array-argument]
+  888 |  GLuint numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |                                         ^
+..\Final Project.cpp:885:56: note: declared here
+  885 | GLfloat * CalculateNormals(GLfloat vertices [], GLuint indices []) {
+      |                                                 ~~~~~~~^~~~~~~~~~
+..\Final Project.cpp:934:9: warning: address of local variable 'normArray' returned [-Wreturn-local-addr]
+  934 |  return normArray;
+      |         ^~~~~~~~~
+..\Final Project.cpp:921:10: note: declared here
+  921 |  GLfloat normArray [normalContainerSize];
+      |          ^~~~~~~~~
+g++ -o Final.exe "Final Project.o" "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" -lopengl32 -lglew32 -lglu32 -lfreeglut 
+09:12:25 **** Incremental Build of configuration Debug for project Final ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "Final Project.o" "..\\Final Project.cpp" 
+..\Final Project.cpp: In function 'GLfloat* CalculateNormals(GLfloat*, GLuint*)':
+..\Final Project.cpp:888:41: warning: 'sizeof' on array function parameter 'indices' will return size of 'GLuint*' {aka 'unsigned int*'} [-Wsizeof-array-argument]
+  888 |  GLuint numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |                                         ^
+..\Final Project.cpp:885:56: note: declared here
+  885 | GLfloat * CalculateNormals(GLfloat vertices [], GLuint indices []) {
+      |                                                 ~~~~~~~^~~~~~~~~~
+..\Final Project.cpp:934:9: warning: address of local variable 'normArray' returned [-Wreturn-local-addr]
+  934 |  return normArray;
+      |         ^~~~~~~~~
+..\Final Project.cpp:921:10: note: declared here
+  921 |  GLfloat normArray [normalContainerSize];
+      |          ^~~~~~~~~
+g++ -o Final.exe "Final Project.o" "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" -lopengl32 -lglew32 -lglu32 -lfreeglut 
+09:12:49 **** Incremental Build of configuration Debug for project Final ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "Final Project.o" "..\\Final Project.cpp" 
+..\Final Project.cpp: In function 'GLfloat* CalculateNormals(GLfloat*, GLuint*)':
+..\Final Project.cpp:888:41: warning: 'sizeof' on array function parameter 'indices' will return size of 'GLuint*' {aka 'unsigned int*'} [-Wsizeof-array-argument]
+  888 |  GLuint numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |                                         ^
+..\Final Project.cpp:885:56: note: declared here
+  885 | GLfloat * CalculateNormals(GLfloat vertices [], GLuint indices []) {
+      |                                                 ~~~~~~~^~~~~~~~~~
+..\Final Project.cpp:934:9: warning: address of local variable 'normArray' returned [-Wreturn-local-addr]
+  934 |  return normArray;
+      |         ^~~~~~~~~
+..\Final Project.cpp:921:10: note: declared here
+  921 |  GLfloat normArray [normalContainerSize];
+      |          ^~~~~~~~~
+g++ -o Final.exe "Final Project.o" "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" -lopengl32 -lglew32 -lglu32 -lfreeglut 
+09:58:10 **** Incremental Build of configuration Debug for project Final ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "Final Project.o" "..\\Final Project.cpp" 
+..\Final Project.cpp: In function 'void CreateBuffers()':
+..\Final Project.cpp:696:43: error: cannot convert 'std::vector<float>' to 'GLfloat*' {aka 'float*'}
+  696 |  GLfloat * normalArray = CalculateNormals(vertices, indices);
+      |                                           ^~~~~~~~
+      |                                           |
+      |                                           std::vector<float>
+..\Final Project.cpp:92:36: note:   initializing argument 1 of 'GLfloat* CalculateNormals(GLfloat*, GLuint*)'
+   92 | GLfloat * CalculateNormals(GLfloat vertices [], GLuint indices []);
+      |                            ~~~~~~~~^~~~~~~~~~~
+..\Final Project.cpp:709:50: error: cannot convert 'std::vector<float>' to 'const void*' in argument passing
+  709 |  glBufferData(GL_ARRAY_BUFFER, sizeof(vertices), vertices, GL_STATIC_DRAW);
+      |                                                  ^~~~~~~~
+      |                                                  |
+      |                                                  std::vector<float>
+..\Final Project.cpp:712:57: error: cannot convert 'std::vector<unsigned int>' to 'const void*' in argument passing
+  712 |  glBufferData(GL_ELEMENT_ARRAY_BUFFER, sizeof(indices), indices, GL_STATIC_DRAW);
+      |                                                         ^~~~~~~
+      |                                                         |
+      |                                                         std::vector<unsigned int>
+..\Final Project.cpp: In function 'GLfloat* CalculateNormals(GLfloat*, GLuint*)':
+..\Final Project.cpp:890:41: warning: 'sizeof' on array function parameter 'indices' will return size of 'GLuint*' {aka 'unsigned int*'} [-Wsizeof-array-argument]
+  890 |  GLuint numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |                                         ^
+..\Final Project.cpp:887:56: note: declared here
+  887 | GLfloat * CalculateNormals(GLfloat vertices [], GLuint indices []) {
+      |                                                 ~~~~~~~^~~~~~~~~~
+..\Final Project.cpp:936:9: warning: address of local variable 'normArray' returned [-Wreturn-local-addr]
+  936 |  return normArray;
+      |         ^~~~~~~~~
+..\Final Project.cpp:923:10: note: declared here
+  923 |  GLfloat normArray [normalContainerSize];
+      |          ^~~~~~~~~
+09:59:01 **** Incremental Build of configuration Debug for project Final ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "Final Project.o" "..\\Final Project.cpp" 
+..\Final Project.cpp: In function 'GLfloat* CalculateNormals(GLfloat*, GLuint*)':
+..\Final Project.cpp:890:41: warning: 'sizeof' on array function parameter 'indices' will return size of 'GLuint*' {aka 'unsigned int*'} [-Wsizeof-array-argument]
+  890 |  GLuint numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |                                         ^
+..\Final Project.cpp:887:56: note: declared here
+  887 | GLfloat * CalculateNormals(GLfloat vertices [], GLuint indices []) {
+      |                                                 ~~~~~~~^~~~~~~~~~
+..\Final Project.cpp:936:9: warning: address of local variable 'normArray' returned [-Wreturn-local-addr]
+  936 |  return normArray;
+      |         ^~~~~~~~~
+..\Final Project.cpp:923:10: note: declared here
+  923 |  GLfloat normArray [normalContainerSize];
+      |          ^~~~~~~~~
+g++ -o Final.exe "Final Project.o" "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" -lopengl32 -lglew32 -lglu32 -lfreeglut 
+Info: Nothing to build for Final
+Info: Nothing to build for Final
+10:01:11 **** Incremental Build of configuration Debug for project Final ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "Final Project.o" "..\\Final Project.cpp" 
+..\Final Project.cpp: In function 'GLfloat* CalculateNormals(GLfloat*, GLuint*)':
+..\Final Project.cpp:890:41: warning: 'sizeof' on array function parameter 'indices' will return size of 'GLuint*' {aka 'unsigned int*'} [-Wsizeof-array-argument]
+  890 |  GLuint numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |                                         ^
+..\Final Project.cpp:887:56: note: declared here
+  887 | GLfloat * CalculateNormals(GLfloat vertices [], GLuint indices []) {
+      |                                                 ~~~~~~~^~~~~~~~~~
+..\Final Project.cpp:936:9: warning: address of local variable 'normArray' returned [-Wreturn-local-addr]
+  936 |  return normArray;
+      |         ^~~~~~~~~
+..\Final Project.cpp:923:10: note: declared here
+  923 |  GLfloat normArray [normalContainerSize];
+      |          ^~~~~~~~~
+g++ -o Final.exe "Final Project.o" "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" -lopengl32 -lglew32 -lglu32 -lfreeglut 
+10:01:38 **** Incremental Build of configuration Debug for project Final ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "Final Project.o" "..\\Final Project.cpp" 
+..\Final Project.cpp: In function 'GLfloat* CalculateNormals(GLfloat*, GLuint*)':
+..\Final Project.cpp:890:41: warning: 'sizeof' on array function parameter 'indices' will return size of 'GLuint*' {aka 'unsigned int*'} [-Wsizeof-array-argument]
+  890 |  GLuint numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |                                         ^
+..\Final Project.cpp:887:56: note: declared here
+  887 | GLfloat * CalculateNormals(GLfloat vertices [], GLuint indices []) {
+      |                                                 ~~~~~~~^~~~~~~~~~
+..\Final Project.cpp:936:9: warning: address of local variable 'normArray' returned [-Wreturn-local-addr]
+  936 |  return normArray;
+      |         ^~~~~~~~~
+..\Final Project.cpp:923:10: note: declared here
+  923 |  GLfloat normArray [normalContainerSize];
+      |          ^~~~~~~~~
+g++ -o Final.exe "Final Project.o" "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" -lopengl32 -lglew32 -lglu32 -lfreeglut 
+Info: Nothing to build for Final
+10:03:53 **** Incremental Build of configuration Debug for project Final ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "Final Project.o" "..\\Final Project.cpp" 
+..\Final Project.cpp: In function 'GLfloat* CalculateNormals(GLfloat*, GLuint*)':
+..\Final Project.cpp:890:41: warning: 'sizeof' on array function parameter 'indices' will return size of 'GLuint*' {aka 'unsigned int*'} [-Wsizeof-array-argument]
+  890 |  GLuint numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |                                         ^
+..\Final Project.cpp:887:56: note: declared here
+  887 | GLfloat * CalculateNormals(GLfloat vertices [], GLuint indices []) {
+      |                                                 ~~~~~~~^~~~~~~~~~
+..\Final Project.cpp:936:9: warning: address of local variable 'normArray' returned [-Wreturn-local-addr]
+  936 |  return normArray;
+      |         ^~~~~~~~~
+..\Final Project.cpp:923:10: note: declared here
+  923 |  GLfloat normArray [normalContainerSize];
+      |          ^~~~~~~~~
+g++ -o Final.exe "Final Project.o" "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" -lopengl32 -lglew32 -lglu32 -lfreeglut 
+10:10:04 **** Incremental Build of configuration Debug for project Final ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "Final Project.o" "..\\Final Project.cpp" 
+..\Final Project.cpp: In function 'void Initialize(int, char**)':
+..\Final Project.cpp:223:4: warning: unknown escape sequence: '\_'
+  223 |    "*****woof> /_/\_____/ ***********" << endl <<
+      |    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\Final Project.cpp:224:4: warning: unknown escape sequence: '\040'
+  224 |    "**********    /\   /\ ***********" << endl <<
+      |    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\Final Project.cpp:224:4: warning: unknown escape sequence: '\040'
+..\Final Project.cpp:225:4: warning: unknown escape sequence: '\040'
+  225 |    "**********   /  \ /  \ **********" << endl;
+      |    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\Final Project.cpp:225:4: warning: unknown escape sequence: '\040'
+..\Final Project.cpp: In function 'void CreateBuffers()':
+..\Final Project.cpp:700:6: warning: unused variable 'numOfTriangles' [-Wunused-variable]
+  700 |  int numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |      ^~~~~~~~~~~~~~
+..\Final Project.cpp: In function 'GLfloat* CalculateNormals(GLfloat*, GLuint*)':
+..\Final Project.cpp:897:41: warning: 'sizeof' on array function parameter 'indices' will return size of 'GLuint*' {aka 'unsigned int*'} [-Wsizeof-array-argument]
+  897 |  GLuint numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |                                         ^
+..\Final Project.cpp:894:56: note: declared here
+  894 | GLfloat * CalculateNormals(GLfloat vertices [], GLuint indices []) {
+      |                                                 ~~~~~~~^~~~~~~~~~
+..\Final Project.cpp:943:9: warning: address of local variable 'normArray' returned [-Wreturn-local-addr]
+  943 |  return normArray;
+      |         ^~~~~~~~~
+..\Final Project.cpp:930:10: note: declared here
+  930 |  GLfloat normArray [normalContainerSize];
+      |          ^~~~~~~~~
+g++ -o Final.exe "Final Project.o" "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" -lopengl32 -lglew32 -lglu32 -lfreeglut 
+10:10:40 **** Incremental Build of configuration Debug for project Final ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "Final Project.o" "..\\Final Project.cpp" 
+..\Final Project.cpp: In function 'void Initialize(int, char**)':
+..\Final Project.cpp:223:4: warning: unknown escape sequence: '\_'
+  223 |    "*****woof> /_/\_____/ ***********" << endl <<
+      |    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\Final Project.cpp:225:4: warning: unknown escape sequence: '\040'
+  225 |    "**********   /  \ /  \\ **********" << endl;
+      |    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\Final Project.cpp: In function 'void CreateBuffers()':
+..\Final Project.cpp:700:6: warning: unused variable 'numOfTriangles' [-Wunused-variable]
+  700 |  int numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |      ^~~~~~~~~~~~~~
+..\Final Project.cpp: In function 'GLfloat* CalculateNormals(GLfloat*, GLuint*)':
+..\Final Project.cpp:897:41: warning: 'sizeof' on array function parameter 'indices' will return size of 'GLuint*' {aka 'unsigned int*'} [-Wsizeof-array-argument]
+  897 |  GLuint numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |                                         ^
+..\Final Project.cpp:894:56: note: declared here
+  894 | GLfloat * CalculateNormals(GLfloat vertices [], GLuint indices []) {
+      |                                                 ~~~~~~~^~~~~~~~~~
+..\Final Project.cpp:943:9: warning: address of local variable 'normArray' returned [-Wreturn-local-addr]
+  943 |  return normArray;
+      |         ^~~~~~~~~
+..\Final Project.cpp:930:10: note: declared here
+  930 |  GLfloat normArray [normalContainerSize];
+      |          ^~~~~~~~~
+g++ -o Final.exe "Final Project.o" "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" -lopengl32 -lglew32 -lglu32 -lfreeglut 
+10:11:15 **** Incremental Build of configuration Debug for project Final ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "Final Project.o" "..\\Final Project.cpp" 
+..\Final Project.cpp: In function 'void Initialize(int, char**)':
+..\Final Project.cpp:223:4: warning: unknown escape sequence: '\_'
+  223 |    "*****woof> /_/\_____/ ***********" << endl <<
+      |    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\Final Project.cpp: In function 'void CreateBuffers()':
+..\Final Project.cpp:700:6: warning: unused variable 'numOfTriangles' [-Wunused-variable]
+  700 |  int numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |      ^~~~~~~~~~~~~~
+..\Final Project.cpp: In function 'GLfloat* CalculateNormals(GLfloat*, GLuint*)':
+..\Final Project.cpp:897:41: warning: 'sizeof' on array function parameter 'indices' will return size of 'GLuint*' {aka 'unsigned int*'} [-Wsizeof-array-argument]
+  897 |  GLuint numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |                                         ^
+..\Final Project.cpp:894:56: note: declared here
+  894 | GLfloat * CalculateNormals(GLfloat vertices [], GLuint indices []) {
+      |                                                 ~~~~~~~^~~~~~~~~~
+..\Final Project.cpp:943:9: warning: address of local variable 'normArray' returned [-Wreturn-local-addr]
+  943 |  return normArray;
+      |         ^~~~~~~~~
+..\Final Project.cpp:930:10: note: declared here
+  930 |  GLfloat normArray [normalContainerSize];
+      |          ^~~~~~~~~
+g++ -o Final.exe "Final Project.o" "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" -lopengl32 -lglew32 -lglu32 -lfreeglut 
+10:12:55 **** Incremental Build of configuration Debug for project Final ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "Final Project.o" "..\\Final Project.cpp" 
+..\Final Project.cpp: In function 'void Initialize(int, char**)':
+..\Final Project.cpp:223:4: warning: unknown escape sequence: '\_'
+  223 |    "*****woof> /_/\_____/ ***********" <<  endl <<
+      |    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\Final Project.cpp: In function 'void CreateBuffers()':
+..\Final Project.cpp:703:6: warning: unused variable 'numOfTriangles' [-Wunused-variable]
+  703 |  int numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |      ^~~~~~~~~~~~~~
+..\Final Project.cpp: In function 'GLfloat* CalculateNormals(GLfloat*, GLuint*)':
+..\Final Project.cpp:900:41: warning: 'sizeof' on array function parameter 'indices' will return size of 'GLuint*' {aka 'unsigned int*'} [-Wsizeof-array-argument]
+  900 |  GLuint numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |                                         ^
+..\Final Project.cpp:897:56: note: declared here
+  897 | GLfloat * CalculateNormals(GLfloat vertices [], GLuint indices []) {
+      |                                                 ~~~~~~~^~~~~~~~~~
+..\Final Project.cpp:946:9: warning: address of local variable 'normArray' returned [-Wreturn-local-addr]
+  946 |  return normArray;
+      |         ^~~~~~~~~
+..\Final Project.cpp:933:10: note: declared here
+  933 |  GLfloat normArray [normalContainerSize];
+      |          ^~~~~~~~~
+g++ -o Final.exe "Final Project.o" "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" -lopengl32 -lglew32 -lglu32 -lfreeglut 
+10:13:31 **** Incremental Build of configuration Debug for project Final ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "Final Project.o" "..\\Final Project.cpp" 
+..\Final Project.cpp: In function 'void CreateBuffers()':
+..\Final Project.cpp:703:6: warning: unused variable 'numOfTriangles' [-Wunused-variable]
+  703 |  int numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |      ^~~~~~~~~~~~~~
+..\Final Project.cpp: In function 'GLfloat* CalculateNormals(GLfloat*, GLuint*)':
+..\Final Project.cpp:900:41: warning: 'sizeof' on array function parameter 'indices' will return size of 'GLuint*' {aka 'unsigned int*'} [-Wsizeof-array-argument]
+  900 |  GLuint numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |                                         ^
+..\Final Project.cpp:897:56: note: declared here
+  897 | GLfloat * CalculateNormals(GLfloat vertices [], GLuint indices []) {
+      |                                                 ~~~~~~~^~~~~~~~~~
+..\Final Project.cpp:946:9: warning: address of local variable 'normArray' returned [-Wreturn-local-addr]
+  946 |  return normArray;
+      |         ^~~~~~~~~
+..\Final Project.cpp:933:10: note: declared here
+  933 |  GLfloat normArray [normalContainerSize];
+      |          ^~~~~~~~~
+g++ -o Final.exe "Final Project.o" "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" -lopengl32 -lglew32 -lglu32 -lfreeglut 
+20:00:58 **** Rebuild of configuration Debug for project Final ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "SOIL2\\image_DXT.o" "..\\SOIL2\\image_DXT.c" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "Final Project.o" "..\\Final Project.cpp" 
+..\Final Project.cpp: In function 'void CreateBuffers()':
+..\Final Project.cpp:703:6: warning: unused variable 'numOfTriangles' [-Wunused-variable]
+  703 |  int numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |      ^~~~~~~~~~~~~~
+..\Final Project.cpp: In function 'GLfloat* CalculateNormals(GLfloat*, GLuint*)':
+..\Final Project.cpp:900:41: warning: 'sizeof' on array function parameter 'indices' will return size of 'GLuint*' {aka 'unsigned int*'} [-Wsizeof-array-argument]
+  900 |  GLuint numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |                                         ^
+..\Final Project.cpp:897:56: note: declared here
+  897 | GLfloat * CalculateNormals(GLfloat vertices [], GLuint indices []) {
+      |                                                 ~~~~~~~^~~~~~~~~~
+..\Final Project.cpp:946:9: warning: address of local variable 'normArray' returned [-Wreturn-local-addr]
+  946 |  return normArray;
+      |         ^~~~~~~~~
+..\Final Project.cpp:933:10: note: declared here
+  933 |  GLfloat normArray [normalContainerSize];
+      |          ^~~~~~~~~
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "SOIL2\\etc1_utils.o" "..\\SOIL2\\etc1_utils.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "SOIL2\\image_helper.o" "..\\SOIL2\\image_helper.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "SOIL2\\SOIL2.o" "..\\SOIL2\\SOIL2.c" 
+g++ -o Final.exe "Final Project.o" "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" -lopengl32 -lglew32 -lglu32 -lfreeglut 

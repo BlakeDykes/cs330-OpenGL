@@ -1,0 +1,9 @@
+21:10:06 **** Incremental Build of configuration Debug for project Mod2 ****
+Info: Internal Builder is used for build
+g++ -o Mod2.exe 2DPrimitiveTutorial.o Cube.o Practice_Activity_2.o Practice_Activity_3.o -lfreeglut -lglew32 -lopengl32 -lglu32 
+C:/Program Files/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: C:/Program Files/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-crt0_c.o): in function `main':
+C:/crossdev/src/mingw-w64-v7-git20191109/mingw-w64-crt/crt/crt0_c.c:18: undefined reference to `WinMain'
+collect2.exe: error: ld returned 1 exit status
+
+21:10:06 Build Failed. 2 errors, 0 warnings. (took 151ms)
+

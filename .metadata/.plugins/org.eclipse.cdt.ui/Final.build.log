@@ -1,0 +1,28 @@
+20:00:58 **** Rebuild of configuration Debug for project Final ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "SOIL2\\image_DXT.o" "..\\SOIL2\\image_DXT.c" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "Final Project.o" "..\\Final Project.cpp" 
+..\Final Project.cpp: In function 'void CreateBuffers()':
+..\Final Project.cpp:703:6: warning: unused variable 'numOfTriangles' [-Wunused-variable]
+  703 |  int numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |      ^~~~~~~~~~~~~~
+..\Final Project.cpp: In function 'GLfloat* CalculateNormals(GLfloat*, GLuint*)':
+..\Final Project.cpp:900:41: warning: 'sizeof' on array function parameter 'indices' will return size of 'GLuint*' {aka 'unsigned int*'} [-Wsizeof-array-argument]
+  900 |  GLuint numOfTriangles = (sizeof(indices)/sizeof(indices[0])/3);
+      |                                         ^
+..\Final Project.cpp:897:56: note: declared here
+  897 | GLfloat * CalculateNormals(GLfloat vertices [], GLuint indices []) {
+      |                                                 ~~~~~~~^~~~~~~~~~
+..\Final Project.cpp:946:9: warning: address of local variable 'normArray' returned [-Wreturn-local-addr]
+  946 |  return normArray;
+      |         ^~~~~~~~~
+..\Final Project.cpp:933:10: note: declared here
+  933 |  GLfloat normArray [normalContainerSize];
+      |          ^~~~~~~~~
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "SOIL2\\etc1_utils.o" "..\\SOIL2\\etc1_utils.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "SOIL2\\image_helper.o" "..\\SOIL2\\image_helper.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "SOIL2\\SOIL2.o" "..\\SOIL2\\SOIL2.c" 
+g++ -o Final.exe "Final Project.o" "SOIL2\\SOIL2.o" "SOIL2\\etc1_utils.o" "SOIL2\\image_DXT.o" "SOIL2\\image_helper.o" -lopengl32 -lglew32 -lglu32 -lfreeglut 
+
+20:01:04 Build Finished. 0 errors, 3 warnings. (took 6s.33ms)
+

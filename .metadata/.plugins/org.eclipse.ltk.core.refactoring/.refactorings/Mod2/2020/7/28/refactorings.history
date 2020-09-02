@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Mod2/TriangleOGL.cpp&apos; to &apos;2DPrimitiveTutorial.cpp&apos;" description="Rename resource &apos;TriangleOGL.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="TriangleOGL.cpp" name="2DPrimitiveTutorial.cpp" stamp="1594350572691" updateReferences="true"/>
+</session>
